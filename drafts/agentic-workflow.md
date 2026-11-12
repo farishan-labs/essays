@@ -96,13 +96,14 @@ checks. Cockpit consumes it; it does not reimplement it (P-001).
 
 ## What's missing
 
-- A shared manifest that both tools read. Today the paths are configured
-  separately in cockpit's `config.toml` and in the agent's `AGENTS.md`. They
-  drift.
-- A spec engine adopted across all repos. Cockpit and user-md have OpenSpec;
-  others don't yet.
+- A shared manifest that both tools read. Now exists: `farishan/agent/workflow.toml`
+  (installed at `~/.config/fhl/workflow.toml`), consumed by cockpit and
+  `usermd-check --workflow`. Remaining: export/diff/share tooling and a shared
+  reader in every consumer.
+- A spec engine adopted across all repos. Cockpit, user-md, and farishan/agent
+  now use OpenSpec; user-md-ops is still pending.
 - The Operator Context as a first-class, versioned artifact rather than a
-  convention. It should be exportable, diffable, and (maybe) shareable.
+  convention. Done (workflow.toml). Still to add: exportable, diffable, shareable.
 - A name. "Agentic workflow" is fine as a working label, but it leans on
   "agentic" which already means too many things. If a better term shows up,
   rename freely — the manifest doesn't care what we call it.
