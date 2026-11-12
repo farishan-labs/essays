@@ -100,8 +100,9 @@ checks. Cockpit consumes it; it does not reimplement it (P-001).
   (installed at `~/.config/fhl/workflow.toml`), consumed by cockpit and
   `usermd-check --workflow`. Remaining: export/diff/share tooling and a shared
   reader in every consumer.
-- A spec engine adopted across all repos. Cockpit, user-md, and farishan/agent
-  now use OpenSpec; user-md-ops is still pending.
+- A spec engine adopted across all repos. Cockpit and farishan/agent now use
+  OpenSpec. user-md is an external dependency (usermd-check) of the workflow,
+  not a spec-engine consumer, so it is not tracked here.
 - The Operator Context as a first-class, versioned artifact rather than a
   convention. Done (workflow.toml). Still to add: exportable, diffable, shareable.
 - A name. "Agentic workflow" is fine as a working label, but it leans on
