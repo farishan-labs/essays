@@ -98,8 +98,8 @@ checks. Cockpit consumes it; it does not reimplement it (P-001).
 
 - A shared manifest that both tools read. Now exists: `farishan/agent/workflow.toml`
   (installed at `~/.config/fhl/workflow.toml`), consumed by cockpit and
-  `usermd-check --workflow`. Remaining: export/diff/share tooling and a shared
-  reader in every consumer.
+  (no `usermd-check --workflow`; that flag is prohibited). Remaining:
+  export/diff/share tooling and a shared reader in every consumer.
 - A spec engine adopted across all repos. Cockpit and farishan/agent now use
   OpenSpec. user-md is an external dependency (usermd-check) of the workflow,
   not a spec-engine consumer, so it is not tracked here.
