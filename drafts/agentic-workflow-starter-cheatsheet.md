@@ -33,7 +33,19 @@ See the attached asset. The eight sections:
 
 ## Sources
 
-Derived from Faris Han Labs research (verified): `opc-workflow-layers`, `ai-assisted-one-person-company`, `fhl-distribution-layer`, `value-bombing`. See `farishan-labs/research/topics/value-bombing/sources.md` for the full registry. Practitioner lineage (unverified): Gary Vee "value-bomb your audience", Trellus "offering value first", Market Quotient.
+External sources this distills (practitioner/self-reported unless noted):
+
+- Vikas Malpani, "The One-Person Company: How Solo Founders Scale" — https://vikasmalpani.com/one-person-company-solo-founders-scale
+- The Agent Stack, "When to Use an AI Agent vs Automation" — https://agentstackai.substack.com/p/when-to-use-an-ai-agent-vs-automation
+- Coherence, "Solo Founder Workflow Automation: 15 Systems" — https://getcoherence.io/blog/solo-founder-workflow-automation-guide
+- Pieter Levels transcript — https://lexfridman.com/pieter-levels-transcript/
+- WSJ, "Million-Dollar Companies With Just One Employee" — https://www.wsj.com/tech/ai/the-rise-of-million-dollar-companies-with-just-one-employee-f36a77c1
+- Context Studios, "Polsia $1M ARR" — https://www.contextstudios.ai/blog/polsia-how-a-solo-founder-hit-1m-arr-in-30-days-with-ai-agents
+- GoatCounter docs — https://www.goatcounter.com/help/api
+- Trellus, "How to Use LinkedIn for Prospecting" — https://www.trellus.ai/post/how-to-use-linkedin-for-prospecting
+- Nothing Held Back Acceptable Use Policy — https://www.nothingheldback.com/acceptable-use
+
+Full registry with verification status: farishan-labs/research/topics/value-bombing/sources.md and topics/opc-workflow-layers/sources.md.
 
 ## What's next
 
