@@ -31,6 +31,10 @@ See the attached asset. The eight sections:
 7. Measurement (pre-register before publishing)
 8. Anti-patterns
 
+## Sources
+
+Derived from Faris Han Labs research (verified): `opc-workflow-layers`, `ai-assisted-one-person-company`, `fhl-distribution-layer`, `value-bombing`. See `farishan-labs/research/topics/value-bombing/sources.md` for the full registry. Practitioner lineage (unverified): Gary Vee "value-bomb your audience", Trellus "offering value first", Market Quotient.
+
 ## What's next
 
 If this is useful, the deeper version is the research: `farishan-labs/research/topics/opc-workflow-layers/` and `topics/ai-assisted-one-person-company/`. Feedback welcome.
