@@ -45,8 +45,8 @@ External sources this distills (practitioner/self-reported unless noted):
 - Trellus, "How to Use LinkedIn for Prospecting" — https://www.trellus.ai/post/how-to-use-linkedin-for-prospecting
 - Nothing Held Back Acceptable Use Policy — https://www.nothingheldback.com/acceptable-use
 
-Full registry with verification status: farishan-labs/research/topics/value-bombing/sources.md and topics/opc-workflow-layers/sources.md.
+Full registry with verification status: Faris Han Labs research repo (sources.md per topic).
 
 ## What's next
 
-If this is useful, the deeper version is the research: `farishan-labs/research/topics/opc-workflow-layers/` and `topics/ai-assisted-one-person-company/`. Feedback welcome.
+If this is useful, the deeper version is in the Faris Han Labs research repo (search: opc-workflow-layers, ai-assisted-one-person-company). Feedback welcome.
